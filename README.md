@@ -1,2 +1,2 @@
-# RepositorioHenry
-modulo 2
+repositorio de tarea modulo 2
+
